@@ -34,7 +34,7 @@
 
 ### [PDF Prototipo 2](https://drive.google.com/file/d/1nEigo5aCLh04ajWBqszw0C3y-rcvd9XB/view?usp=sharing)
 
-[![Descargar PDF Prototipo 2](https://img.shields.io/badge/Descargar-PDF%20Prototipo%202-blue.svg)](https://drive.google.com/your-link-here)
+[![Descargar PDF Prototipo 2](https://drive.google.com/file/d/1nEigo5aCLh04ajWBqszw0C3y-rcvd9XB/view?usp=sharing)](https://drive.google.com/file/d/1nEigo5aCLh04ajWBqszw0C3y-rcvd9XB/view?usp=sharing)
 
 ----
 
